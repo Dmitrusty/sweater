@@ -1,2 +1,2 @@
 # sweater
-Study project frol LetsCode
+Study project from LetsCode
